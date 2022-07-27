@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - f_tox
   pull_request:
 
 jobs:
